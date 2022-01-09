@@ -1,4 +1,4 @@
-# Work
+# Ödev
 
 Visual Studio 2019 ile oluşturulmuştur. 
 
